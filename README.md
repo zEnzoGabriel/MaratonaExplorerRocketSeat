@@ -14,7 +14,7 @@
 * Gitbash
 
 
-### 1 - Demonstração do Projeto
+### - Demonstração do Projeto
 
 ![Homepage image](https://github.com/zEnzoGabriel/MaratonaExplorerRocketSeat/blob/main/midia/homePage.png)
 
