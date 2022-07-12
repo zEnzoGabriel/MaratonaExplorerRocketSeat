@@ -1,9 +1,5 @@
-# 
-![Logo of the project](https://github.com/zEnzoGabriel/landingPageBallerini/blob/main/midia/readme/logoReadme.png)
-
-
-## LandingPage
- Aplicação web desenvolvida para conscientização acerca dos benefícios de adotar um animal de estimação
+## Bola de Cristal
+ Aplicação web desenvolvida com o objetivo de responder a qualquer pergunta feita pelo usuário, com respostas afirmativas ou negativas, de maneira aleatória, pré-programadas em um array
 
 
 ## Tecnologias Utilizadas
@@ -18,23 +14,21 @@
 * Gitbash
 
 
-### 1 - Ao acessar o projeto, esta é a página principal
+### 1 - Demonstração do Projeto
 
-![Homepage image](https://github.com/zEnzoGabriel/landingPageBallerini/blob/main/midia/readme/home.png)
+![Homepage image](https://github.com/zEnzoGabriel/MaratonaExplorerRocketSeat/blob/main/midia/homePage.png)
 
-### 2 - Rodapé da página
 
-![Login](https://github.com/zEnzoGabriel/landingPageBallerini/blob/main/midia/readme/footer.png)
 
 
 ## Funcionalidades (Features)
 
- - Navegação na homepage
+ - Obter respostas aleatórias as suas perguntas
  
 
 
 ## Links
-  - Repositório: https://github.com/zEnzoGabriel/landingPageBallerini
+  - Repositório: https://github.com/zEnzoGabriel/MaratonaExplorerRocketSeat
    
 
  
