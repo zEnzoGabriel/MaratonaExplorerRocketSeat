@@ -16,8 +16,7 @@
 
 ### - Demonstração do Projeto
 
-![Homepage image](https://github.com/zEnzoGabriel/MaratonaExplorerRocketSeat/blob/main/midia/homePage.png)
-
+![Homepage GIF](https://github.com/zEnzoGabriel/MaratonaExplorerRocketSeat/blob/main/midia/gifHomePageReadme.gif)
 
 
 
